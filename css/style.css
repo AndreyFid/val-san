@@ -1,0 +1,28 @@
+header {
+	background-color: #000000;
+}
+
+.header_logo {
+	color: #ffffff;
+	height: 110px;
+	font-size: 20px;
+	text-align: left;
+}
+
+.header_menu {
+	text-align: center;
+}
+
+.header_menu a {
+	color: #ffffff;
+	font-size: 18px;
+}
+
+.header_info {
+	color: #ffffff;
+	font-size: 18px;
+	text-align: right;
+}
+
+
+
